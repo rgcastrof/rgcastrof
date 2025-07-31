@@ -1,2 +1,5 @@
-## 📊 Github stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rgcastrof&layout=compact&card_width=400&theme=radical)
+### Hi there 👋
+
+
+  <!-- GitHub Stats -->
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rgcastrof&theme=aura_dark)
